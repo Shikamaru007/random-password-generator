@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 70%;
+    margin: 5rem auto;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 1.5rem;
+}
+button {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    background-color: coral;
+    border: none;
+    color: white;
+}
